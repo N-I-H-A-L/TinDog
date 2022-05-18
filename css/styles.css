@@ -1,0 +1,171 @@
+/*     font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif;
+    
+    font-family: 'Baloo Bhai 2', cursive; */
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.8rem;
+    line-height: 1.7;
+    color: #fff;
+}
+
+i {
+    text-align: center;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding: 3% 10%;
+}
+
+/* Navbar */
+.navbar {
+    font-family: 'Baloo Bhai 2';
+    margin-bottom: 2.5rem;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.download-button {
+    margin: 50px 20px 50px 0px;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 20%;
+}
+
+/* Features Section */
+#features{
+    background-color: #fff;
+    padding: 120px 216px 100px 216px;
+    position: relative;
+    /* z-index: 1; */
+}
+
+.features-div {
+    text-align: center;
+}
+
+.icon {
+    color: #ef8172;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.features-head{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.features-desc{
+    padding: 0% 25%;
+    color:rgb(122, 116, 116);
+}
+
+#features-guarantee{
+    padding: 0% 20%;
+}
+
+/* Testimonials Section */
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-size: 2.8rem;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    margin-top: 2rem;
+    width: 12%;
+}
+
+/* Press Section (Showing how famous or who are customers are) */
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 1rem 1rem 4rem 1rem;
+}
+
+.press-logo {
+    width: 20%;
+    padding: 1.66rem 2.77rem 0.55rem 0.55rem;
+}
+
+.carousel-item {
+    padding: 6.66rem 11.11rem 5.55rem 11.11rem;
+}
+
+#tnw-logo {
+    width: 15%;
+}
+
+/* Pricing Section */
+#pricing {
+    padding: 5% 0 5% 0;
+    text-align: center;
+}
+
+.title-row {
+    margin: 5%;
+} 
+
+.pricing-row{
+    padding: 0 15% 0 15%;
+    margin: 5% 0 0 0;
+}
+
+.pricing-card {
+    margin: 0 2% 0 2%;
+}
+
+/* Call-To-Action Section */
+#cta{
+    text-align: center;
+    padding: 4% 0 0.5% 0;
+    background-color: #ff4c68;
+    color: white;
+}
+
+#cta h3{
+    font-size: 2.3rem;
+    /* margin-bottom: 1%; */
+}
+
+/* Copyrights Section */
+#footer{
+    text-align: center;
+    margin: 1% 0 1% 0;
+}
+
+#social{
+    margin-top: 0;
+    margin-right: 1%;
+}
